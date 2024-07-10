@@ -4430,7 +4430,10 @@ Header Customaztion
 }
 
 .header-light .navbar .logo-light {
-	display: none;
+	align-items: center;
+	display: flex;
+	
+
 }
 
 .header-light .navbar .module .module-icon i,
